@@ -37,4 +37,4 @@ die($paymes->run('Fiyat'));
 # Destek
 E-Posta Adresi: [iletisim@bugraozkan.com.tr](http://mailto:iletisim@bugraozkan.com.tr "iletisim@bugraozkan.com.tr")
 
-Geri dönüşte size dönecek verilere pdf'i indirerek ulaşabilirsiniz.
+Geri dönüşte size gönderilecek verilere pdf'i indirerek ulaşabilirsiniz.
