@@ -1,4 +1,4 @@
-# Shopier Api
+# Paymes Api
 Yazdığınız özel yazılımlarınıza Paymes ile Ödeme Alma metodu ekleyebilirsiniz.
 
 Paymes Api Entegrasyonu ile çok kolay bir şekilde entegrasyon sağlayın.
