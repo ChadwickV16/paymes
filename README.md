@@ -33,6 +33,8 @@ $paymes->setOrderPayment([
     'card_cvv' => '000'
 ]);
 die($paymes->run('Fiyat'));
+
+//3D işlemi başarılı olursa hataları kontrol etmek yerine "$_POST['message']"den dönen veriyi "AUTHORIZED" ile kontrol edin.
 ```
 # Destek
 E-Posta Adresi: [iletisim@bugraozkan.com.tr](http://mailto:iletisim@bugraozkan.com.tr "iletisim@bugraozkan.com.tr")
