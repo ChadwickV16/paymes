@@ -37,6 +37,6 @@ die($paymes->run('Fiyat'));
 //Herhangi bir sorunda belirlemiş olduğunuz callback adresine dönüş olacak. Bu sepebten dolayı işlem yaptırmak için $_POST['message']'den dönen veri "AUTHORIZED"e eşit mi diye kontrol ettirin.
 ```
 # Destek
-E-Posta Adresi: [iletisim@bugraozkan.com.tr](http://mailto:iletisim@bugraozkan.com.tr "iletisim@bugraozkan.com.tr")
+E-Posta Adresi: [iletisim@bugraozkan.com.tr](http://iletisim@bugraozkan.com.tr "iletisim@bugraozkan.com.tr")
 
 Geri dönüşte size gönderilecek verilere pdf'i indirerek ulaşabilirsiniz.
